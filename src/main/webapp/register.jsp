@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>my-page</title>
 <%@ include file="component/All-CSS.jsp"%>
 </head>
 <body>
 	<br>
 	<br>
-	<h1 class="text-center text-success">Great Coder</h1>
+	<h1 class="text-center text-success">Codezy Technologies</h1>
 
 	<br>
 	<br>
